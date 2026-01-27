@@ -40,3 +40,6 @@ O projeto está sendo construído de forma **incremental**, acompanhando meu apr
 ---
 
 ## 📂 Estrutura do Projeto
+src/
+├── Livro.java
+└── Main.java
